@@ -1,0 +1,25 @@
+# envs
+.venv/
+env/
+venv/
+
+# python junk
+__pycache__/
+*.pyc
+*.pyo
+
+# jupyter
+.ipynb_checkpoints/
+
+# build/editable noise
+*.egg-info/
+dist/
+build/
+
+# reports you don't want tracked
+reports/*.ipynb
+reports/*_executed.ipynb
+
+# OS
+.DS_Store
+Thumbs.db

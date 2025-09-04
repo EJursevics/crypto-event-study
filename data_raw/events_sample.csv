@@ -1,0 +1,7 @@
+event_id,ts_utc,symbol,category,headline,source,direction
+btc_etf_approval,2024-01-10T20:00:00Z,BTC-USD,ETF,SEC approves spot BTC ETF,https://www.sec.gov,pos
+btc_halving,2024-04-20T00:00:00Z,BTC-USD,Halving,Bitcoin block reward halving,https://bitcoin.org,neutral
+sol_outage,2024-02-06T14:00:00Z,SOL-USD,Outage,Solana mainnet outage incident,https://status.solana.com,neg
+eth_dencun,2024-03-13T14:00:00Z,ETH-USD,Protocol,ETH Dencun upgrade activates,https://blog.ethereum.org,pos
+exchange_hack_x,2024-08-12T03:00:00Z,ETH-USD,Hack,Major exchange hot wallet compromise,https://example.com,neg
+memecoin_list,2024-05-01T16:00:00Z,DOGE-USD,Listing,Large exchange lists DOGE perpetuals,https://binance.com,pos

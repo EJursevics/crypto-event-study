@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "crypto-event-study"
+version = "0.1.0"
+description = "Analyst-grade crypto event study: reproducible and clean"
+authors = [{ name = "Emīls Jurševics" }]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=2.2",
+  "numpy>=1.26",
+  "yfinance>=0.2.40",
+  "matplotlib>=3.8",
+  "scipy>=1.11",
+  "pandera>=0.18",
+  "jupytext>=1.16",
+  "nbconvert>=7.16",
+  "papermill>=2.5",
+  "pytest>=8.0"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
