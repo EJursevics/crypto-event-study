@@ -4,7 +4,7 @@
   <img src="docs/hero.png" width="700">
 </p>
 
-### Author: Emīls Jurševics
+### Author: Emil Jursevics
 
 ---
 
